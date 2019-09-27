@@ -1,1 +1,2 @@
 DynamsoftBarcodeReader.framework/DynamsoftBarcodeReader filter=lfs diff=lfs merge=lfs -text
+DynamsoftBarcodeReader filter=lfs diff=lfs merge=lfs -text
